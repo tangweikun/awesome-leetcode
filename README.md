@@ -21,7 +21,7 @@
 * [dnshi/leetcode](https://github.com/dnshi/Leetcode)
 * [paopao2/leetcode-js](https://github.com/paopao2/leetcode-js)
 
-## Java
+### Java
 
 * [gouthampradhan/leetcode](https://github.com/gouthampradhan/leetcode)
 * [kdn251/interviews](https://github.com/kdn251/interviews)
