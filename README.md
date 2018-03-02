@@ -2,6 +2,18 @@
 
 > A list of awesome leetcode solutions resources
 
+### Content
+
+* [Javascript](#Javascript)
+* [Java](#Java)
+* [C++](#C++)
+* [Python](#Python)
+* [C](#C)
+* [`C#`](#`C#`)
+* [Go](#Go)
+* [Swift](#Swift)
+* [Ruby](#Ruby)
+
 ## Javascript
 
 * [tangweikun/leetcode](https://github.com/tangweikun/leetcode)
@@ -40,7 +52,7 @@
 * [begeekmyfriend/leetCode](https://github.com/begeekmyfriend/leetcode)
 * [lennylxx/leetcode](https://github.com/lennylxx/leetcode)
 
-## C
+## `C#`
 
 * [scottszb1987/LeetCodeInCSharp](https://github.com/scottszb1987/LeetCodeInCSharp)
 * [xieqilu/Qilu-leetcode](https://github.com/xieqilu/Qilu-leetcode)
