@@ -4,15 +4,15 @@
 
 ### Content
 
-* [`Javascript`](#Javascript)
-* [`Java`](#Java)
-* [`C++`](#C++)
-* [`Python`](#Python)
-* [`C`](#C)
-* [`C#`](#`C#`)
-* [`Go`](#Go)
-* [`Swift`](#Swift)
-* [`Ruby`](#Ruby)
+* [`Javascript`](#javascript)
+* [`Java`](#java)
+* [`C++`](#c++)
+* [`Python`](#python)
+* [`C`](#c)
+* [`C#`](#`c#`)
+* [`Go`](#go)
+* [`Swift`](#swift)
+* [`Ruby`](#ruby)
 
 ## Javascript
 
@@ -21,7 +21,7 @@
 * [dnshi/leetcode](https://github.com/dnshi/Leetcode)
 * [paopao2/leetcode-js](https://github.com/paopao2/leetcode-js)
 
-### Java
+## Java
 
 * [gouthampradhan/leetcode](https://github.com/gouthampradhan/leetcode)
 * [kdn251/interviews](https://github.com/kdn251/interviews)
