@@ -4,15 +4,15 @@
 
 ### Content
 
-* [Javascript](#Javascript)
-* [Java](#Java)
-* [C++](#C++)
-* [Python](#Python)
-* [C](#C)
+* [`Javascript`](#Javascript)
+* [`Java`](#Java)
+* [`C++`](#C++)
+* [`Python`](#Python)
+* [`C`](#C)
 * [`C#`](#`C#`)
-* [Go](#Go)
-* [Swift](#Swift)
-* [Ruby](#Ruby)
+* [`Go`](#Go)
+* [`Swift`](#Swift)
+* [`Ruby`](#Ruby)
 
 ## Javascript
 
