@@ -28,6 +28,7 @@
 * [Blankj/awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
 * [gouthampradhan/leetcode-js](https://github.com/gouthampradhan/leetcode)
 * [fishercoder1534/Leetcode](https://github.com/fishercoder1534/Leetcode)
+* [conghuaicai/leetcode](https://github.com/conghuaicai/leetcode)
 
 ## C++
 
