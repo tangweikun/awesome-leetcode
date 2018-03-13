@@ -39,6 +39,7 @@
 * [illuz/Leetcode](https://github.com/illuz/leetcode)
 * [gzwl/leetcode](https://github.com/gzwl/leetcode)
 * [MaskRay/LeetCode](https://github.com/MaskRay/LeetCode)
+* [metacpp/LeetCpp](https://github.com/metacpp/LeetCpp)
 
 ## Python
 
