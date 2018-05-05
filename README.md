@@ -13,6 +13,7 @@
 * [`Go`](#go)
 * [`Swift`](#swift)
 * [`Ruby`](#ruby)
+* [`kotlin`](#kotlin)
 
 ## Javascript
 
@@ -20,6 +21,7 @@
 * [hanzichi/leetcode](https://github.com/hanzichi/leetcode)
 * [dnshi/leetcode](https://github.com/dnshi/Leetcode)
 * [paopao2/leetcode-js](https://github.com/paopao2/leetcode-js)
+* [RichCodersAndMe/LeetCode-Solution](https://github.com/RichCodersAndMe/LeetCode-Solution)
 
 ## Java
 
@@ -29,6 +31,7 @@
 * [gouthampradhan/leetcode-js](https://github.com/gouthampradhan/leetcode)
 * [fishercoder1534/Leetcode](https://github.com/fishercoder1534/Leetcode)
 * [conghuaicai/leetcode](https://github.com/conghuaicai/leetcode)
+* [RichCodersAndMe/LeetCode-Solution](https://github.com/RichCodersAndMe/LeetCode-Solution)
 
 ## C++
 
@@ -75,8 +78,12 @@
 * [acearth/LeetCodePractice](https://github.com/acearth/LeetCodePractice)
 * [leetcode-ruby](https://github.com/shichao-an/leetcode-ruby)
 
+## kotlin
+
+* [RichCodersAndMe/LeetCode-Solution](https://github.com/RichCodersAndMe/LeetCode-Solution)
+
 ## Collaborators
 
-| [<img src="https://github.com/tangweikun.png" width="100px;"/>](https://github.com/tangweikun)<br/> [<sub>weikun tang</sub>](https://github.com/tangweikun) | [<img src="https://github.com/conghuaicai.png" width="100px;"/>](https://github.com/conghuaicai)<br/> [<sub>conghuaicai</sub>](https://github.com/conghuaicai) | [<img src="https://github.com/metacpp.png" width="100px;"/>](https://github.com/metacpp)<br/> [<sub>metacpp</sub>](https://github.com/metacpp) |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| [<img src="https://github.com/tangweikun.png" width="100px;"/>](https://github.com/tangweikun)<br/> [<sub>weikun tang</sub>](https://github.com/tangweikun) | [<img src="https://github.com/conghuaicai.png" width="100px;"/>](https://github.com/conghuaicai)<br/> [<sub>conghuaicai</sub>](https://github.com/conghuaicai) | [<img src="https://github.com/metacpp.png" width="100px;"/>](https://github.com/metacpp)<br/> [<sub>metacpp</sub>](https://github.com/metacpp) | [<img src="https://github.com/relish-wang.png" width="100px;"/>](https://github.com/relish-wang)<br/> [<sub>relish-wang</sub>](https://github.com/relish-wang) |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
