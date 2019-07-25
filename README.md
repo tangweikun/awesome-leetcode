@@ -22,6 +22,7 @@
 * [dnshi/leetcode](https://github.com/dnshi/Leetcode)
 * [paopao2/leetcode-js](https://github.com/paopao2/leetcode-js)
 * [RichCodersAndMe/LeetCode-Solution](https://github.com/RichCodersAndMe/LeetCode-Solution)
+* [tushariscoolster/leetcode-javascript](https://github.com/tushariscoolster/leetcode-javascript)
 
 ## Java
 
