@@ -63,6 +63,7 @@
 
 * [scottszb1987/LeetCodeInCSharp](https://github.com/scottszb1987/LeetCodeInCSharp)
 * [xieqilu/Qilu-leetcode](https://github.com/xieqilu/Qilu-leetcode)
+* [nikiforovall/leetcode-playground](https://github.com/NikiforovAll/leetcode-playground) - based on template [leetcode-playground-template](https://github.com/NikiforovAll/leetcode-playground-template)
 
 ## Go
 
