@@ -14,6 +14,7 @@
 * [`Swift`](#swift)
 * [`Ruby`](#ruby)
 * [`kotlin`](#kotlin)
+* [`Rust`](#rust)
 
 ## Javascript
 
@@ -83,6 +84,10 @@
 ## kotlin
 
 * [RichCodersAndMe/LeetCode-Solution](https://github.com/RichCodersAndMe/LeetCode-Solution)
+
+## Rust
+
+* [garciparedes/leetcode](https://github.com/garciparedes/leetcode)
 
 ## Collaborators
 
