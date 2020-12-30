@@ -88,6 +88,7 @@
 
 ## Rust
 
+- [warycat/rustgym](https://github.com/warycat/rustgym)
 - [garciparedes/leetcode](https://github.com/garciparedes/leetcode)
 
 ## Collaborators
