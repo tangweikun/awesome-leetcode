@@ -91,6 +91,9 @@
 - [warycat/rustgym](https://github.com/warycat/rustgym)
 - [garciparedes/leetcode](https://github.com/garciparedes/leetcode)
 
+## Mixed Langs
+- [leetcode.daily](https://github.com/zheeeng/leetcode.daily)
+
 ## Collaborators
 
 | [<img src="https://github.com/tangweikun.png" width="100px;"/>](https://github.com/tangweikun)<br/> [<sub>weikun tang</sub>](https://github.com/tangweikun) | [<img src="https://github.com/metacpp.png" width="100px;"/>](https://github.com/metacpp)<br/> [<sub>metacpp</sub>](https://github.com/metacpp) | [<img src="https://github.com/relish-wang.png" width="100px;"/>](https://github.com/relish-wang)<br/> [<sub>relish-wang</sub>](https://github.com/relish-wang) | [<img src="https://github.com/happyflyingfish.png" width="100px;"/>](https://github.com/happyflyingfish)<br/> [<sub>Flying fish</sub>](https://github.com/happyflyingfish) | [<img src="https://github.com/nivance.png" width="100px;"/>](https://github.com/nivance)<br/> [<sub>nivance</sub>](https://github.com/nivance) | [<img src="https://github.com/tushariscoolster.png" width="100px;"/>](https://github.com/tushariscoolster)<br/> [<sub>Tushar Borole</sub>](https://github.com/tushariscoolster) | [<img src="https://github.com/NikiforovAll.png" width="100px;"/>](https://github.com/NikiforovAll)<br/> [<sub>Nikiforov Alexey</sub>](https://github.com/NikiforovAll) | [<img src="https://github.com/garciparedes.png" width="100px;"/>](https://github.com/garciparedes)<br/> [<sub>Sergio García Prado</sub>](https://github.com/garciparedes) |
